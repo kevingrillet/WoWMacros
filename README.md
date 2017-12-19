@@ -5,3 +5,9 @@ Mes vieilles macros de WoW en français, sortie de Cataclysm avec des résidu de
 
 ## WIP-enEN ##
 New macros to test.
+
+## Links ##
+### Milling/Prospecting ###
+https://eu.battle.net/forums/en/wow/topic/7426604889
+### \o/ ###
+https://nirklars.wordpress.com/wow/vanilla-wow-macros/
