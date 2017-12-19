@@ -1,0 +1,5 @@
+#showtooltip
+/cast [mod:shift] Renvoyer le familier
+/cast [mod:alt] Apprivoiser une bête
+/cast [mod:ctrl] Ressusciter le familier
+/cast Guérison du familier

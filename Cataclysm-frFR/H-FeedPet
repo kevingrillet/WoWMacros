@@ -1,0 +1,1 @@
+/script if (not PlayerFrame.inCombat) then if (not GetContainerItemLink(0, 1)) then OpenBag(0); else CastSpellByName("Feed Pet" ); PickupContainerItem(0, 1); end end 

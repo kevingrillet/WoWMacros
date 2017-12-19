@@ -1,0 +1,5 @@
+#showtooltip
+/cast [nomod] Piège explosif
+/cast [mod:shift] Piège givrant
+/cast [mod:ctrl] Piège de glace
+/cast [mod:alt] Lance-piège

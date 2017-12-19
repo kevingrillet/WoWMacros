@@ -1,0 +1,6 @@
+#showtooltip
+/stopcasting
+/stopcasting
+/petpassive
+/petfollow [target=pettarget,exists]
+/lancer Feindre la mort

@@ -1,0 +1,5 @@
+#showtooltip
+/use [nomod] Pierre de foyer de fief
+/use [mod:shift] Pierre de foyer
+/use [mod:ctrl] Boussole d’amiral
+/use [mod:alt] La fille de l'aubergiste

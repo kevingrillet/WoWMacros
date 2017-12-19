@@ -1,0 +1,5 @@
+#showtooltip
+/cast [nomod] Trait de choc
+/cast [mod:shift] Trait provocateur
+/cast [mod:ctrl] Tir de lien
+/cast [mod:alt] Fusée éclairante

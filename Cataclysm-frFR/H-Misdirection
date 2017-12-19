@@ -1,0 +1,6 @@
+#showtooltip
+/focus [mod:shift]
+/stopmacro [mod:shift]
+/cast [@focus,exists][@pet] Détournement
+/stopmacro [target=focus,nohelp]
+/s Détournement sur %f.
