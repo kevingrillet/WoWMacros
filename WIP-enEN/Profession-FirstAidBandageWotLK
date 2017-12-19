@@ -1,0 +1,3 @@
+#showtooltip
+/use [help, nodead][@player] Heavy Frostweave Bandage
+/use [help, nodead][@player] Frostweave Bandage

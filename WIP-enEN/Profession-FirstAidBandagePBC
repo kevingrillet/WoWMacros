@@ -1,0 +1,5 @@
+#showtooltip
+/use [help, nodead][@player] Heavy Wool Bandage
+/use [help, nodead][@player] Wool Bandage
+/use [help, nodead][@player] Heavy Linen Bandage
+/use [help, nodead][@player] Linen Bandage

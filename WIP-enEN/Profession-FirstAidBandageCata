@@ -1,0 +1,5 @@
+#showtooltip
+/use [help, nodead][@player] Dense Embersilk Bandage
+/use [help, nodead][@player] Field Bandage: Dense Embersilk
+/use [help, nodead][@player] Heavy Embersilk Bandage
+/use [help, nodead][@player] Embersilk Bandage

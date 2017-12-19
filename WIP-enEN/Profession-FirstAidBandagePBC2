@@ -1,0 +1,5 @@
+#showtooltip
+/use [help, nodead][@player] Heavy Mageweave Bandage
+/use [help, nodead][@player] Mageweave Bandage
+/use [help, nodead][@player] Heavy Silk Bandage
+/use [help, nodead][@player] Silk Bandage

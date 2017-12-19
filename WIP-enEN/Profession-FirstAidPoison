@@ -1,0 +1,6 @@
+#showtooltip
+/use [help, nodead][@player] Fire Ammonite Oil
+/use [help, nodead][@player] Blackwater Anti-Venom
+/use [help, nodead][@player] Powerful Anti-Venom
+/use [help, nodead][@player] Strong Anti-Venom
+/use [help, nodead][@player] Anti-Venom

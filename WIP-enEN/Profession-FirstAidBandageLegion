@@ -1,0 +1,4 @@
+#showtooltip
+/use [help, nodead][@player] Silkweave Splint
+/use [help, nodead][@player] Silvery Salve
+/use [help, nodead][@player] Silkweave Bandage
