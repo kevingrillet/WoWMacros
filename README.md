@@ -44,3 +44,24 @@ Looks for items with the word “Bandage” in your bags starting in bag 0 (your
 ```
 /run TargetUnit("player")function u(n)for b=0,4 do for s=1,GetContainerNumSlots(b)do a=GetContainerItemLink(b,s)if a then if string.find(a,n)then UseContainerItem(b,s,1)return end end end end end u("Bandage")TargetLastTarget()
 ```
+
+### Hunt & Clear Errors ###
+https://huntsmanslodge.com/macros/
+
+Prevents an on-screen error message when an ability isn’t ready. This is handy for eliminating the on-screen combat message spam you’ll get when rapid-pressing a macro key when a spell or ability isn’t ready.
+```
+/script UIErrorsFrame:Clear()
+```
+
+### Profession - Engineering - Loot-A-Rang ###
+https://us.battle.net/forums/en/wow/topic/5590647562
+
+```
+#showtooltip
+/console Sound_EnableSFX 0
+/use [target=mouseover,dead] Loot-A-Rang
+/cast recuperate
+/cast spell
+/script UIErrorsFrame:Clear()
+/console Sound_EnableSFX 1
+```

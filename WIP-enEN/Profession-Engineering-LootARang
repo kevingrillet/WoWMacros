@@ -1,0 +1,4 @@
+#showtooltip Findle's Loot-A-Rang
+/targetlasttarget [noexists,nocombat]
+/cast [@mouseover,harm,dead][harm,dead] Loot-A-Rang
+/cast [@mouseover,harm,dead][harm,dead] Findle's Loot-A-Rang

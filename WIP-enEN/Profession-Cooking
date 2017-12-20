@@ -1,2 +1,2 @@
 #showtooltip
-/use [modifier: shift] Cooking; Cooking Fire
+/use [nomod] Cooking; [mod: shift] Cooking Fire

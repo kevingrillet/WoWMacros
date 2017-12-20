@@ -1,2 +1,2 @@
 #showtooltip
-/use [modifier: shift] Archaeology; Survey
+/use [nomod] Archaeology; [mod: shift] Survey
