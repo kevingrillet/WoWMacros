@@ -40,7 +40,7 @@ Macro 2: Use function.
 ### Bandage ###
 https://nirklars.wordpress.com/wow/vanilla-wow-macros/
 
-It looks for items with the word “Bandage” in your bags starting in bag 0 so if the macro uses the wrong bandage before the Heavy Runecloth, move Heavy Runecloth into bag 0 (your backpack).
+Looks for items with the word “Bandage” in your bags starting in bag 0 (your backpack).
 ```
 /run TargetUnit("player")function u(n)for b=0,4 do for s=1,GetContainerNumSlots(b)do a=GetContainerItemLink(b,s)if a then if string.find(a,n)then UseContainerItem(b,s,1)return end end end end end u("Bandage")TargetLastTarget()
 ```
